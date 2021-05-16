@@ -4,7 +4,7 @@ This is an online e-commerce website project. [FoodBank](https://food-bank-a7d75
 
 ## Live Website Link
 
-[FoodBasket](https://foodbasket-com.web.app/)
+[FoodBank](https://food-bank-a7d75.web.app/)
 
 ## Technology Used
 
